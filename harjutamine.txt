@@ -1,1 +1,2 @@
 Github on versioonihaldus tarkvara, seda kasutavad enamuselt programmeerijad.
+Saan githubi kasutada programmeerimis tundides.
